@@ -1,0 +1,51 @@
+candidate_id,role_track,cohort_number,candidate_type,candidate_type_label,prior_domain,days_to_placement,company,role,sql_score,python_score,power_bi_score,data_viz_score,excel_score,financial_modelling_score,compliance_score,reporting_score,process_mapping_score,capstone_score,hired,rating_30d,rating_60d,rating_90d,performance_score
+C001,Data Analytics,2,1,Career Switcher,0,2,Instarem,Data Analyst,71.0,100.0,79.9,85.3,,,,,,52.6,1,5.0,5.0,4.98,4.99
+C002,Data Analytics,3,0,Fresh Grad,0,5,Instarem,Business Intelligence Analyst,79.4,56.6,52.6,51.0,,,,,,61.4,0,,,,
+C003,Data Analytics,3,0,Fresh Grad,0,8,Nium,Business Intelligence Analyst,58.5,60.1,58.8,75.7,,,,,,83.4,1,5.0,5.0,5.0,5.0
+C004,Data Analytics,2,0,Fresh Grad,1,9,StashAway,Payments Data Analyst,66.4,73.9,60.9,95.6,,,,,,76.5,1,5.0,5.0,4.84,4.94
+C005,Data Analytics,1,0,Fresh Grad,0,9,Instarem,Data Analyst,85.6,77.2,46.7,92.5,,,,,,54.9,1,5.0,5.0,4.89,4.96
+C006,Data Analytics,1,1,Career Switcher,1,1,Syfe,Business Intelligence Analyst,49.3,97.0,100.0,37.8,,,,,,61.2,1,5.0,5.0,5.0,5.0
+C007,Data Analytics,1,0,Fresh Grad,0,9,StashAway,Data Analyst,78.3,87.7,49.7,54.3,,,,,,63.0,1,5.0,4.99,5.0,5.0
+C008,Data Analytics,3,0,Fresh Grad,0,7,StashAway,Business Intelligence Analyst,95.2,82.5,83.8,73.4,,,,,,79.6,1,5.0,4.95,4.93,4.95
+C009,Data Analytics,2,0,Fresh Grad,0,9,Syfe,Data Analyst,74.4,72.1,58.7,49.5,,,,,,85.5,1,5.0,4.68,4.79,4.8
+C010,Data Analytics,3,0,Fresh Grad,0,8,Syfe,Data Analyst,47.4,83.6,63.8,61.6,,,,,,71.9,0,,,,
+C011,Data Analytics,1,1,Career Switcher,1,1,GrabFinancial,Data Analyst,69.6,56.5,69.2,63.1,,,,,,81.4,1,5.0,5.0,5.0,5.0
+C012,Data Analytics,3,0,Fresh Grad,1,8,GrabFinancial,Business Intelligence Analyst,69.9,66.6,50.6,90.6,,,,,,83.2,1,5.0,5.0,4.98,4.99
+C013,Data Analytics,3,0,Fresh Grad,1,8,Syfe,Data Analyst,77.5,50.2,61.7,70.4,,,,,,73.9,1,5.0,5.0,4.94,4.98
+C014,Data Analytics,1,1,Career Switcher,1,3,Syfe,Business Intelligence Analyst,75.3,61.8,62.9,68.0,,,,,,44.8,0,,,,
+C015,Data Analytics,1,1,Career Switcher,1,1,GrabFinancial,Data Analyst,54.1,78.5,53.2,72.2,,,,,,50.6,0,,,,
+C016,Data Analytics,1,1,Career Switcher,1,8,Nium,Data Analyst,53.2,62.1,53.5,72.6,,,,,,75.4,0,,,,
+C017,Data Analytics,1,0,Fresh Grad,0,3,Nium,Payments Data Analyst,62.9,54.2,80.2,65.4,,,,,,41.1,0,,,,
+C018,Data Analytics,2,0,Fresh Grad,0,3,Nium,Business Intelligence Analyst,54.5,63.0,82.1,51.2,,,,,,69.7,0,,,,
+C019,Data Analytics,2,1,Career Switcher,0,1,Nium,Payments Data Analyst,70.1,78.1,61.8,79.1,,,,,,82.0,1,5.0,5.0,5.0,5.0
+C020,Data Analytics,1,0,Fresh Grad,0,5,StashAway,Business Intelligence Analyst,63.4,61.4,63.8,71.0,,,,,,67.1,0,,,,
+C021,Finance,2,1,Career Switcher,0,8,Aspire,Finance Analyst,,,,,78.5,63.7,69.1,48.3,,66.5,0,,,,
+C022,Finance,3,1,Career Switcher,1,2,Wallex,Finance Analyst,,,,,79.5,75.5,61.5,60.9,,76.6,1,5.0,5.0,5.0,5.0
+C023,Finance,1,0,Fresh Grad,0,3,Kredivo,Credit Analyst,,,,,64.7,63.2,78.7,62.0,,74.7,0,,,,
+C024,Finance,1,0,Fresh Grad,0,9,Funding Societies,Credit Analyst,,,,,66.6,66.4,62.9,69.4,,59.4,0,,,,
+C025,Finance,1,1,Career Switcher,1,7,Funding Societies,Finance Analyst,,,,,82.9,73.3,53.4,85.7,,68.1,1,5.0,4.9,4.83,4.9
+C026,Finance,1,0,Fresh Grad,0,4,Validus Capital,Credit Analyst,,,,,56.7,53.5,60.5,77.0,,65.2,0,,,,
+C027,Finance,3,1,Career Switcher,1,5,Wallex,Credit Analyst,,,,,78.7,100.0,76.8,68.8,,72.4,1,5.0,5.0,5.0,5.0
+C028,Finance,3,1,Career Switcher,1,2,Wallex,Credit Analyst,,,,,68.2,56.9,63.1,70.7,,60.2,0,,,,
+C029,Finance,2,0,Fresh Grad,0,8,Aspire,FX Operations Analyst,,,,,65.0,51.0,56.5,54.0,,68.3,0,,,,
+C030,Finance,1,0,Fresh Grad,0,4,Aspire,FX Operations Analyst,,,,,80.4,81.2,68.4,64.7,,72.0,1,5.0,5.0,4.73,4.89
+C031,Finance,2,1,Career Switcher,0,9,Funding Societies,FX Operations Analyst,,,,,79.6,79.1,71.4,64.0,,88.3,1,5.0,5.0,5.0,5.0
+C032,Finance,2,0,Fresh Grad,0,5,Aspire,Credit Analyst,,,,,79.4,76.7,60.9,72.5,,81.4,1,5.0,5.0,5.0,5.0
+C033,Finance,1,0,Fresh Grad,0,9,Kredivo,Finance Analyst,,,,,83.3,73.8,58.4,53.4,,95.1,1,5.0,5.0,5.0,5.0
+C034,Finance,2,1,Career Switcher,1,4,Aspire,FX Operations Analyst,,,,,68.3,67.8,71.2,75.3,,57.3,1,5.0,5.0,5.0,5.0
+C035,Finance,2,0,Fresh Grad,0,5,Aspire,Finance Analyst,,,,,77.5,55.4,47.7,89.5,,80.2,1,5.0,5.0,5.0,5.0
+C036,Operations,3,0,Fresh Grad,1,1,Liquid Group,Reporting Analyst,,,96.1,,51.7,,,80.6,71.2,82.5,1,5.0,5.0,4.86,4.94
+C037,Operations,2,1,Career Switcher,0,7,Matchmove,Reporting Analyst,,,67.0,,88.7,,,66.0,80.3,92.8,1,5.0,5.0,5.0,5.0
+C038,Operations,1,0,Fresh Grad,0,6,Razer Fintech,Compliance Analyst,,,72.9,,92.8,,,74.4,41.4,59.4,0,,,,
+C039,Operations,3,0,Fresh Grad,0,9,Fazz Financial,Operations Analyst,,,82.6,,49.7,,,68.4,60.5,74.5,1,5.0,4.93,5.0,4.98
+C040,Operations,1,0,Fresh Grad,1,1,Matchmove,Operations Analyst,,,40.6,,49.1,,,73.1,35.1,76.3,0,,,,
+C041,Operations,1,0,Fresh Grad,1,4,Liquid Group,Compliance Analyst,,,100.0,,68.2,,,72.0,93.0,32.4,1,5.0,5.0,4.94,4.98
+C042,Operations,1,1,Career Switcher,1,9,YouTrip,Compliance Analyst,,,59.0,,76.8,,,75.7,92.8,86.2,1,5.0,4.99,5.0,5.0
+C043,Operations,2,0,Fresh Grad,0,4,Fazz Financial,Operations Analyst,,,74.9,,67.8,,,76.9,76.8,41.9,1,5.0,5.0,5.0,5.0
+C044,Operations,2,0,Fresh Grad,1,3,Matchmove,Operations Analyst,,,77.0,,45.1,,,61.8,53.8,82.0,0,,,,
+C045,Operations,2,1,Career Switcher,0,9,Matchmove,Compliance Analyst,,,56.6,,75.0,,,74.4,100.0,77.6,1,5.0,5.0,5.0,5.0
+C046,Operations,3,0,Fresh Grad,0,2,Razer Fintech,Reporting Analyst,,,96.9,,68.3,,,80.1,62.5,38.2,1,5.0,5.0,5.0,5.0
+C047,Operations,1,1,Career Switcher,0,4,Fazz Financial,Operations Analyst,,,68.7,,62.1,,,46.9,62.0,33.0,0,,,,
+C048,Operations,1,0,Fresh Grad,1,6,Matchmove,Operations Analyst,,,62.0,,33.1,,,61.2,67.2,85.1,0,,,,
+C049,Operations,1,1,Career Switcher,0,2,Liquid Group,Reporting Analyst,,,66.9,,76.2,,,73.5,71.3,82.0,1,5.0,4.9,4.92,4.93
+C050,Operations,1,0,Fresh Grad,1,8,Liquid Group,Compliance Analyst,,,75.7,,67.0,,,88.9,74.0,52.7,0,,,,
